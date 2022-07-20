@@ -83,3 +83,16 @@
     margin: 0%;
     border: 1px;
 }
+
+.donate-text h3 {
+    font-size: 150%;
+}
+
+.donate-msg {
+    border: 1px;
+}
+
+.donate-method {
+    display: flex;
+
+}
